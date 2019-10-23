@@ -1,42 +1,6 @@
 #benjamin vielstich 
 #9/11/2019
 #geometry homework
-#test
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 #Errors: Format in the first square, circle and triangle-logic error.
