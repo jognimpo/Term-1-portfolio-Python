@@ -1,0 +1,161 @@
+midterm Noah Hancock
+lists and tuples
+what is the proper way to make a list?
+[123,120]
+{123,0}
+(123,123)
+[123}
+1
+the box brackets are needed to make a list
+lists and tuples
+what is the proper way to make a tuple?
+[123,123]
+(123,123)
+{123,123}
+{123,123]
+3
+curly brackets are what you need to make a tuple
+data types
+what does the data type integer contain?
+numbers
+words
+true or false values
+all of the above
+1
+integers holds numbers
+data types
+what does the string data type contain
+numbers
+words
+true or false values
+boxes
+2
+strings contain words with in quotation marks
+variables
+what is a variable?
+a container that holds data
+data
+tobhiba
+pie
+1
+variables contain data in a container
+functions
+how do you make a function
+def function_name():
+function function()
+create function():
+you can't
+1
+using the def call will allow you to create functions
+functions
+which one is a function
+print()
+pnirt
+print
+()tnirp
+1
+the print function is what you need
+history
+who made python
+monty python
+python snakes
+Guido van Rossum
+Mark Lutz
+3
+Guido van Rossum made python
+history
+why did Guido van Rossum make python
+He got bored over christmas break
+he thought the other languages were to complicated
+he wanted to make a mark on the programing world
+snakes
+1
+On December 1989 Guido got bored so he made python
+history
+why did Guido name his program python
+he thought it sounded cool
+he like python snakes
+he was a big fan of Monty Python's Flying Circus
+he was a snake 
+3
+Guido was a big fan of monty Pyhton's Flying Circus
+errors
+what error wil pop up in the code/while True:/  pie="pie"
+syntax error
+logical error
+runtime error
+nothing the code will work fine
+4
+there is nothing wrong with the code
+errors
+what error will give you an enexpected result from your code
+syntax error
+runtime error
+logical errror
+snake error
+3
+logical errors will give you unexpected results from your code
+errors
+what error will stop your code from running at all
+logical error
+runtime error
+syntax error
+snake error
+3
+syntax errors stops the program from running at all
+history
+who maintains the python language now?
+Python Software Foundation
+snakes
+pythons
+Guido van Rossum
+1
+The Python Software Foundation keeps python updated
+python language
+what does the python code start out as
+source code
+snake code
+cat code
+python code
+1
+source code is what it starts out as
+pyhton language
+what type of language is python
+interpreted language
+binary language
+chinese
+snake speak
+1
+python is an interpreted language
+string formating
+what will the following code produce/ print(str.format("hello {1}, i am {0}",pie,noah))
+hello noah, i am pie
+i am pie, hello noah
+hello pie, i am noah
+haon,eip," {0} ma i, {1} olleh"
+1
+the numbers in the curly brackets tell you where the other things go
+answers
+what is the right answer
+not this one
+nor is it this one
+im the right one
+im not the right one
+3
+im the right one is the right one
+random
+red trucks drives through the tunnel/ can you spell it without any r's
+ed tucks dives though the tunnel
+it
+lennut eht hguoht sevid skcut de
+lennut eht hguorht sevird skcurt der
+2
+you can spell it with out any r's
+language
+what language is spoken in china
+chinese
+american
+snake language
+glowsticks
+1
+chinese is spoken in china
